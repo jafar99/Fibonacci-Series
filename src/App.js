@@ -13,7 +13,7 @@ function App() {
     <main className="column">
       <h1>User Login</h1>
       {error && <p>Authentication Error</p>}
-      {!error && isLoading && <p>Loading..</p>}
+      {!error && isLoading && <p>Loading...</p>}
       {!error && !isLoading && (
         <>
           <LoginButton />
