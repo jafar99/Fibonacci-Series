@@ -13,7 +13,7 @@ function fibonacci() {
   return (
     <>
 
-     <h2 className='header'>Fibonacci series Finder</h2>
+     <h2 className='header'>Fibonacci Series Finder</h2>
       <h4 className='heading'>Enter the Number </h4>
 
 
