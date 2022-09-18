@@ -14,7 +14,7 @@ function fibonacci() {
     <>
 
      <h2 className='header'>Fibonacci series Finder</h2>
-      <h4 className='heading'>Enter the number </h4>
+      <h4 className='heading'>Enter the Number </h4>
 
 
       <input className='input'
